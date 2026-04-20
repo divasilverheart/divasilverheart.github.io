@@ -23,7 +23,7 @@ The dashboard enhancements are about structure and the data layer. The software 
 
 ## Code Review
 
-[Watch on YouTube](YOUR_YOUTUBE_LINK_HERE)
+[Watch on YouTube](https://youtu.be/A0Q_wQ_efB0)
 
 ---
 
